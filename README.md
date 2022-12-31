@@ -22,7 +22,6 @@
 - [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
 - [Upcoming Features](#upcoming-features-construction)
-- [Contributors](#contributors-man_technologistwoman_technologist)
 
 <br /><br />
 
@@ -44,79 +43,79 @@
 <br /><br />
 
 # Demo :movie_camera:
-![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+<!-- ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif) -->
+## View live demo [here](https://kangkanrajkhowa.netlify.app/).
 
 <br />
 
 # Themes :art:
 ### Green :green_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/greenThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/greenThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 <br />
 
 ### Black & White :black_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 <br />
 
 ### Blue :large_blue_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/blueThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/blueThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br />
 
 ### Red :red_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/redThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/redThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br />
 
 ### Orange :orange_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/orangeThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/orangeThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br />
 
 ### Purple :purple_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/purpleThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/purpleThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br />
 
 ### Pink 
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br />
 
 ### Yellow :yellow_circle:
 
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeLight.png" width="48%" alt="">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeDark.png" width="48%" alt="">
-</div>
+</div> -->
 
 <br /> <br />
 
@@ -143,8 +142,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-cd developer-portfolio
+git clone hhttps://github.com/<YOUR GITHUB USERNAME>/MyPortfolio.git
+cd MyPortfolio
 ```
 ### Install packages from the root directory
 ```
@@ -293,7 +292,7 @@ yarn start
 <br />
 
 # Usage :joystick:
-### Customize your details for each component in `src/data` [folder](https://github.com/hhhrrrttt222111/developer-portfolio/tree/master/src/data).
+### Customize your details for each component in `src/data` [folder](https://github.com/kangkanrajkhowa/MyPortfolio/tree/master/src/data).
 
 Eg:
 ```javascript
@@ -320,29 +319,29 @@ export const headerData = {
 ```
 
 #### Data for each component is divided into respective files.
->#### Set website theme in [`src/data/themeData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/themeData.js) and choose your favourite font from [`src/App.css`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/App.css)
+>#### Set website theme in [`src/data/themeData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/themeData.js) and choose your favourite font from [`src/App.css`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/App.css)
 
-> #### About You - [`src/data/aboutData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/aboutData.js)
+> #### About You - [`src/data/aboutData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/aboutData.js)
 
-> #### Education details - [`src/data/educationData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/educationData.js) 
+> #### Education details - [`src/data/educationData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/educationData.js) 
 
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/projectsData.js)
+> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/projectsData.js)
 
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/skillsData.js)
+> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/skillsData.js)
 
-> #### Experience - [`src/data/experienceData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/experienceData.js)
+> #### Experience - [`src/data/experienceData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/experienceData.js)
 
-> #### Achievements - [`src/data/achievementData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/achievementData.js)
+> #### Achievements - [`src/data/achievementData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/achievementData.js)
 
-> #### Services - [`src/data/servicesData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/servicesData.js)
+> #### Services - [`src/data/servicesData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/servicesData.js)
 
-> #### Testimonials - [`src/data/testimonialsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/testimonialsData.js)
+> #### Testimonials - [`src/data/testimonialsData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/testimonialsData.js)
 
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/blogData.js)
+> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/blogData.js)
 
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/contactsData.js)
+> #### Contact Details - [`src/data/contactsData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/contactsData.js)
 
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/hhhrrrttt222111/developer-portfolio/blob/master/src/data/socialsData.js)
+> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/kangkanrajkhowa/MyPortfolio/blob/master/src/data/socialsData.js)
 
 ```javascript
 // EXAMPLE
@@ -362,7 +361,7 @@ export const educationData = [
 <br />
 
 ## Setting Up Contacts form :envelope_with_arrow:
-> ### Follow these [instructions](https://github.com/hhhrrrttt222111/developer-portfolio/wiki/Contacts) to connect contacts form with Google Sheet
+> ### Follow these [instructions](https://github.com/kangkanrajkhowa/MyPortfolio/wiki/Contacts) to connect contacts form with Google Sheet
 
 <br />
 
@@ -497,14 +496,4 @@ export const educationData = [
 
 <br />
 
-# Contributors :man_technologist::woman_technologist:
 
-<div>
-    <table>
-        <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-            <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://raw.githubusercontent.com/ShimilSAbraham/Blender_Works/main/profile_shimil.jpeg" width="135px;" height="135px; alt=""/><br /><b>Shimil S Abraham</b></a></td>
-            <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
-        </tr>
-    </table>
-</div>
