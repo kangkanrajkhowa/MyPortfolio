@@ -1,5 +1,6 @@
 import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
+import vscode from '../assets/svg/skills/vscode.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
 import illustrator from '../assets/svg/skills/illustrator.svg'
 import docker from '../assets/svg/skills/docker.svg'
@@ -16,6 +17,7 @@ import typescript from '../assets/svg/skills/typescript.svg'
 import vue from '../assets/svg/skills/vue.svg'
 import bootstrap from '../assets/svg/skills/bootstrap.svg'
 import bulma from '../assets/svg/skills/bulma.svg'
+import laravel from '../assets/svg/skills/laravel.svg'
 import capacitorjs from '../assets/svg/skills/capacitorjs.svg'
 import coffeescript from '../assets/svg/skills/coffeescript.svg'
 import memsql from '../assets/svg/skills/memsql.svg'
@@ -93,6 +95,8 @@ export const skillsImage = (skill) => {
             return adobeXd;
         case 'after effects':
             return afterEffects;
+        case 'laravel':
+            return laravel;
         case 'css':
             return css;
         case 'angular':
@@ -103,6 +107,8 @@ export const skillsImage = (skill) => {
             return nextJS;
         case 'nuxt js':
             return nuxtJS;
+        case 'vs code':
+            return vscode;
         case 'react':
             return react;
         case 'svelte':
